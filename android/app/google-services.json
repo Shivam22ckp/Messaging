@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "183611239138",
+    "firebase_url": "https://zm-official-server-default-rtdb.firebaseio.com",
+    "project_id": "zm-official-server",
+    "storage_bucket": "zm-official-server.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183611239138:android:02173fcb2dad0ee2104cbb",
+        "android_client_info": {
+          "package_name": "com.s16d.zm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183611239138-v2mifcvs5dv7ff6sfg99p0n05oh5uuer.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.s16d.zm",
+            "certificate_hash": "da83f534fa729368fab0477ce6dd3e9b155fed91"
+          }
+        },
+        {
+          "client_id": "183611239138-f5v8cjl5drco433rl94aikqj06covk8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLV-0Ci7zMZleETvZafG_geVnEpu2bR1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183611239138-f5v8cjl5drco433rl94aikqj06covk8p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "183611239138-fgporrk2gkk50henq16lr00i9shfja3j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.s16d.zm"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
